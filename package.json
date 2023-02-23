@@ -1,0 +1,28 @@
+{
+  "name": "chatGPTAuthenticator",
+  "version": "1.0.0",
+  "main": "src/chatGPTAuthenticator.ts",
+  "repository": "git@bitbucket.org:mrzlab630pw/chatGPT_authenticator.git",
+  "author": "Stepan Zadolia <mrz@mrzlab630.pw>",
+  "license": "MIT",
+  "keywords": [
+    "chatGPT",
+    "chatGPT3",
+    "authorisation chat.openai.com",
+    "authorisation chatGPT",
+    "authorisation chatGPT3",
+    "chatGPT3 authorisation",
+    "chat.openai.com",
+    "chatGPT auth",
+    "openai",
+    "ChatGPT API"
+  ],
+  "scripts": {
+  },
+  "dependencies": {
+    "url": "^0.11.0",
+    "cross-fetch": "^3.1.5",
+    "fetch-cookie": "^2.1.0",
+    "socks-proxy-agent": "^7.0.0"
+  }
+}
